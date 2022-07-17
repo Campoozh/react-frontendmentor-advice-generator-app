@@ -8,7 +8,7 @@
 
 This project is a coding challenge from [Frontend Mentor](https://www.frontendmentor.io/). Consists in trying to reproduce the image given using any technology without limit. 
 
-## ✴️ Challegeg link
+## ✴️ Challenge link
 ️⤷ **Fontend Mentor** [Project](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db)
 
 ## 🚀 Technologies used
