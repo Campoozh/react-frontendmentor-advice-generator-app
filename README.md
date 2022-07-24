@@ -15,6 +15,6 @@ This project is a coding challenge from [Frontend Mentor](https://www.frontendme
 * **Html**
 * **Css**
 * **React**
-* **Advice slip api**
+* **Advice slip API**
 
 ## 📅  Last update: 17/07/2022
